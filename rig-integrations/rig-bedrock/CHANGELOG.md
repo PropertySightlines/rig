@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.13](https://github.com/0xPlaygrounds/rig/compare/rig-bedrock-v0.3.12...rig-bedrock-v0.3.13) - 2026-02-11
+
+### Added
+
+- *(rig-1189)* structured outputs ([#1382](https://github.com/0xPlaygrounds/rig/pull/1382))
+- *(rig-core)* add optional model override to CompletionRequest ([#1374](https://github.com/0xPlaygrounds/rig/pull/1374))
+
 ## [0.3.12](https://github.com/0xPlaygrounds/rig/compare/rig-bedrock-v0.3.11...rig-bedrock-v0.3.12) - 2026-02-03
 
 ### Other
