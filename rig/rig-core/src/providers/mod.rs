@@ -57,6 +57,7 @@ pub mod hyperbolic;
 pub mod mira;
 pub mod mistral;
 pub mod moonshot;
+pub mod nvidia;
 pub mod ollama;
 pub mod openai;
 pub mod openrouter;
